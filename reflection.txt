@@ -1,0 +1,1 @@
+Commit은 내PC에 기록을 남기고, Push는 그기록을 Github에 올린다.
